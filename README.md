@@ -8,7 +8,7 @@ Welcome to the New Year Firework Code repository! This project is designed to cr
 - Customizable colors and patterns
 - User-friendly interface
 
-![Uploading Screenshot 2023-12-31 160230.png…]()
+![Uploading Screenshot 2023-12-31 160230.png…]
 
 
 
